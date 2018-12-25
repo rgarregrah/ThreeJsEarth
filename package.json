@@ -1,0 +1,15 @@
+{
+  "name": "threeJsTutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "@types/three": "^0.93.13",
+    "three": "^0.99.0",
+    "three-orbitcontrols": "^2.99.1"
+  }
+}
